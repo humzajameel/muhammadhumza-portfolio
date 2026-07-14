@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Muhammad Humza | Full Stack & AI Engineer",
+  title: "Humza Jameel | Full Stack & AI Engineer",
   description:
     "Full Stack & AI Engineer based in Berlin. M.Sc. Artificial Intelligence student with 3+ years building production React/TypeScript frontends and Python/FastAPI backends.",
   icons: {

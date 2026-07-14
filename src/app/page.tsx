@@ -139,7 +139,7 @@ export default function Portfolio() {
               MH
             </div>
             <div>
-              <div className="font-semibold tracking-tight">Muhammad Humza</div>
+              <div className="font-semibold tracking-tight">Humza Jameel</div>
               <div className="text-xs text-slate-500 -mt-1">
                 Full Stack &amp; AI Engineer
               </div>
@@ -259,7 +259,7 @@ export default function Portfolio() {
           <div className="flex-shrink-0">
             <Image
               src="/image.png"
-              alt="Muhammad Humza - Full Stack & AI Engineer"
+              alt="Humza Jameel - Full Stack & AI Engineer"
               width={320}
               height={320}
               className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-3xl border border-slate-800 shadow-2xl"
@@ -511,7 +511,7 @@ export default function Portfolio() {
       </section>
 
       <footer className="border-t border-slate-800 py-8 text-center text-sm text-slate-500">
-        © {new Date().getFullYear()} Muhammad Humza. Built with Next.js &amp;
+        © {new Date().getFullYear()} Humza Jameel. Built with Next.js &amp;
         Tailwind.
       </footer>
     </div>
